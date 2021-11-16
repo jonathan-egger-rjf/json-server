@@ -1,25 +1,23 @@
 {
-    "accounts": [
-        {
-            "id": 1,
-            "epvObjectAddress": "some epv object address 1",
-            "userName": "some epv user 1"
-        },
-        {
-            "id": 2,
-            "epvObjectAddress": "some epv object address 2",
-            "userName": "some epv user 2"
-        }
-    ],
-    "apps": [
-        {
-            "name": "account1"
-        },
-        {
-            "name": "account2"
-        }
-    ]
-    "profile": {
-        "name": "typicode"
-    }
+	"accounts": [{
+			"id": 1,
+			"epvObjectAddress": "some epv object address 1",
+			"userName": "some epv user 1"
+		},
+		{
+			"id": 2,
+			"epvObjectAddress": "some epv object address 2",
+			"userName": "some epv user 2"
+		}
+	],
+	"apps": [{
+			"name": "account1"
+		},
+		{
+			"name": "account2"
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
