@@ -2,13 +2,13 @@
     "comments": [
         {
             "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "epvObjectAddress": "some epv object address 1",
+            "userName": "some epv user 1"
         },
         {
             "id": 2,
-            "body": "some comment",
-            "postId": 2
+            "epvObjectAddress": "some epv object address 2",
+            "userName": "some epv user 2"
         }
     ],
     "profile": {
