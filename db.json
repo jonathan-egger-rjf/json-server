@@ -30,11 +30,11 @@
     "apps": [
         {
             "id": 1,
-            "name": "account1"
+            "name": "TheFirstApp"
         },
         {
             "id": 2,
-            "name": "account2"
+            "name": "TheSecondApp"
         }
     ],
     "profile": {
